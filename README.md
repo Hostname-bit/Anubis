@@ -1,0 +1,2 @@
+# Anubis
+UCI Chess Engine
